@@ -7,7 +7,7 @@ h2{
     font-size: 30px;
 }
 .jack{
-    font-size: 30px;
+    font-size: 29px;
 }
 .first{
     width: 40%; float: left; margin-left: 5%; padding-left: 2%;
@@ -19,7 +19,7 @@ img{
     background-image: url(header-bg.png);background-repeat: no-repeat;
 }
 section{
-    height: 500px; padding-bottom: 100px;
+    height: 510px; padding-bottom: 100px;
 }
 .link-button
 {text-decoration: none; background-color: tomato; padding: 10px 20px; border-radius: 7px; color: lightgray; font-weight: 800px;}
