@@ -1,0 +1,45 @@
+body{
+    margin: 0px; font-family: 'Poppins', sans-serif;}
+h1{
+    color: crimson;
+}
+h2{
+    font-size: 30px;
+}
+.jack{
+    font-size: 30px;
+}
+.first{
+    width: 40%; float: left; margin-left: 5%; padding-left: 2%;
+}
+img{
+     width: 50%;
+    }
+.first-banner{
+    background-image: url(header-bg.png);background-repeat: no-repeat;
+}
+section{
+    height: 500px; padding-bottom: 100px;
+}
+.link-button
+{text-decoration: none; background-color: tomato; padding: 10px 20px; border-radius: 7px; color: lightgray; font-weight: 800px;}
+.second-banner{
+    background-image: url(biography-bg.png); background-position: right; background-repeat: no-repeat;}
+h3{
+    font-size: 40px; text-align: center;}
+.fourth
+{float: left;}
+.img1{
+    width: 28%; padding-left: 2%; margin-left: 2%;}
+.du{
+    text-align: center;}
+.fifth1{
+    border: 1px solid; margin: 0px 350px; background-color: hotpink;} 
+.link-button:hover{
+    background-color: rgb(63, 63, 37);
+    color: ivory;
+}
+.fifth1:hover{
+    background-color: rgb(172, 76, 48);
+}
+#duu{color: thistle;}
